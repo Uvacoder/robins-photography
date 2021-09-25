@@ -22,7 +22,7 @@
 	"bugs": {
 		"url": "https://github.com/brewhousedigital/celestial-light/issues"
 	},
-	"homepage": "https://github.com/brewhousedigital/celestial-light#readme",
+	"homepage": "https://robins-photography.vercel.app",
 	"devDependencies": {
 		"@11ty/eleventy": "^0.12.1",
 		"@11ty/eleventy-navigation": "^0.1.6",
